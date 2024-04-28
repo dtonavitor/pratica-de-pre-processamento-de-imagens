@@ -1,0 +1,1 @@
+# pratica-de-pre-processamento-de-imagens
